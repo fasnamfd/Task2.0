@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #375e97;
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 1px solid #8a9737;
+    border-bottom: dotted;
+}
+.contact-container{
+    width: 350px;
+    background-color:white;
+    color: rgb(1, 1, 1);
+    border-width: 13px;
+    border-style: ridge; 
+    border-color: #6da8d6
+}
+h2{
+    color:rgb(8, 101, 138) ;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.content{
+    font-weight: bold;
+}
